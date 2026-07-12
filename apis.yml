@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://ergast.com/mrd/
 common:
+  - type: DomainSecurity
+    url: security/ergast-f1-domain-security.yml
   - type: Website
     url: http://ergast.com/mrd/
   - type: PublicAPIsListing
