@@ -33,13 +33,15 @@ x-category: "Sports & Fitness"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Sports And Fitness
   - Public APIs
+  - Sports
+  - Sports Data
+  - Formula 1
+  - Motorsports
 apis:
   - name: Ergast F1
     description: "F1 data from the beginning of the world championships in 1950"
     humanURL: http://ergast.com/mrd/
-    baseURL: http://ergast.com/mrd/
     tags:
       - Sports And Fitness
     properties:
@@ -55,3 +57,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Sports And Fitness
