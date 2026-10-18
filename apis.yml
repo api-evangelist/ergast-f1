@@ -42,7 +42,8 @@ apis:
   - name: Ergast F1
     description: "F1 data from the beginning of the world championships in 1950"
     humanURL: http://ergast.com/mrd/
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
