@@ -1,4 +1,4 @@
-# Ergast F1 (ergast-f1)
+# Ergast F1
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,26 +66,81 @@
 
 F1 data from the beginning of the world championships in 1950
 
-**APIs.yml:** [apis.yml](apis.yml)
+**Areas:** Public APIs · Sports · Sports Data · Formula 1 · Motorsports
 
-## Type
-- **x-type:** company
-- **x-tier:** 3 (bulk-registered from public-apis)
-- **source:** [public-apis/public-apis](https://github.com/public-apis/public-apis) — category: Sports & Fitness
+## Ergast F1 on APIs.io
 
-## API
-- **Ergast F1** — [Documentation](http://ergast.com/mrd/)
+Everything profiled for Ergast F1 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ergast-f1/](https://apis.io/providers/ergast-f1/)** — or go straight to one of the APIs or properties below.
 
-## Tags
-Sports And Fitness, Public APIs
+### APIs (1)
 
-## Notes
-This entry was bulk-registered as part of a public-apis catalog sweep on 2026-05-28.
-A real OpenAPI artifact will be added during a follow-up enrichment pass if the provider publishes one.
+- [Ergast F1](https://apis.io/apis/ergast-f1/ergast-f1/) — F1 data from the beginning of the world championships in 1950
 
-## Timestamps
-- **Created:** 2026-05-28
-- **Modified:** 2026-05-28
+### Published properties
 
-## Maintainers
-- **Kin Lane** — kin@apievangelist.com
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ergast F1 Domain Security](https://apis.io/security/ergast-f1/ergast-f1-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://ergast.com/mrd/)
+
+## API Evangelist rating
+
+**Kin Score 6.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ergast-f1/](https://apis.io/providers/ergast-f1/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ergast F1: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ergast-f1/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
